@@ -1,4 +1,4 @@
-<!-- פרויקט בריאקט- קריאות שרת
+ פרויקט בריאקט- קריאות שרת
 
 התחברות-לאחר שהמשתמש ממלא את פרטיו בעמוד לוגין (התחברות)
 http://localhost:4000l/user/login    method: 'post' 
@@ -23,7 +23,7 @@ http://localhost:4000/order    method: 'get'
 
 קבלת הזמנה לפי מזהה id 
 http://localhost:4000/order/id    method: 'get' 
- -->
+
 
 
 
