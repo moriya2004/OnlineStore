@@ -1,0 +1,11 @@
+.order-card {
+    margin-bottom: 20px;
+  }
+  
+  .data-grid-container {
+    height: 400px; /* כדי להראות מערך גדול יותר נוח עם גרירה */
+  }
+  
+  .MuiDataGrid-root {
+    cursor: grab;
+  }
